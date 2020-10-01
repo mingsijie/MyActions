@@ -113,7 +113,7 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 
 ### 同步Fork后的代码
 
-#### 手动同步
+#### 手动同步..
 
 [手动同步 http://www.ibloger.net/article/3361.html](http://www.ibloger.net/article/3361.html)
 
